@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
-    <img src="https://github.com/Harshsingh2340/Harshsingh2340/assets/101996864/f738e443-1147-4be5-9810-6be09bd39261" alt="photo" width="200" height="200">
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 
@@ -10,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ravi-kumar-2a288a239/](https://www.linkedin.com/in/ravi-kumar-2a288a239/)
 
-- 📫 How to reach me **baghelharshsingh41@gmail.com**
+- 📫 How to reach me **ravikumar16208062@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harsh-singh-06672621b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-singh-06672621b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ravi-kumar-2a288a239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravi-kumar-2a288a239/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/h21052905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/h21052905" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/baghelharshsingh41/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/baghelharshsingh41/" height="30" width="40" />
