@@ -8,7 +8,7 @@
 
 <h3 align="center">A passionate Software Developer Student from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/harsh-singh-06672621b/](https://www.linkedin.com/in/harsh-singh-06672621b/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ravi-kumar-2a288a239/](https://www.linkedin.com/in/ravi-kumar-2a288a239/)
 
 - 📫 How to reach me **baghelharshsingh41@gmail.com**
 
