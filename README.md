@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ravi-kumar-2a288a239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravi-kumar-2a288a239/" height="30" width="40" /></a>
-<a href="https://www.naukri.com/code360/profile/ravikumar_67" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="https://www.hackerrank.com/h21052905" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/baghelharshsingh41/" target="blank">
+<a href="https://www.naukri.com/code360/profile/ravikumar_67" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="https://www.naukri.com/code360/profile/ravikumar_67" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ravi_kumar111/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/baghelharshsingh41/" height="30" width="40" />
 </a>
 
